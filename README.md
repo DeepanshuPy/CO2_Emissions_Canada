@@ -35,7 +35,7 @@ Based on the Data_Analysis_2026.ipynb findings:
 3. README.md__________________ Project documentation
 4. equirements.txt______________ List of Python dependencies
    
-🚀 How to Run
+## 🚀 How to Run
 
 1. Clone this repository:
    git clone https://github.com/YOUR_USERNAME/canada-co2-analysis.git
