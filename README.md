@@ -32,7 +32,7 @@ Based on the Data_Analysis_2026.ipynb findings:
 
 1. Data_Analysis_2026.ipynb____ Main Jupyter Notebook with code and plots
 2. canada_co2_data.csv_________ (Optional) The dataset used for analysis
-3. README.md___________________ Project documentation
+3. README.md__________________ Project documentation
 4. equirements.txt_____________ List of Python dependencies
 
 ## Gemini said
