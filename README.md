@@ -20,7 +20,7 @@ I followed a modular data science workflow to ensure the analysis is reproducibl
 
 ## 📊 Data Insights
 
-5. Based on the Data_Analysis_2026.ipynb findings:
+Based on the Data_Analysis_2026.ipynb findings:
 
 1. Provincial Leaders: Identified which provinces (e.g., Alberta, Ontario) contribute the highest share of national emissions.
 
