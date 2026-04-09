@@ -33,7 +33,7 @@ Based on the Data_Analysis_2026.ipynb findings:
 1. Data_Analysis_2026.ipynb____ Main Jupyter Notebook with code and plots
 2. canada_co2_data.csv_________ (Optional) The dataset used for analysis
 3. README.md__________________ Project documentation
-4. equirements.txt_____________ List of Python dependencies
+4. equirements.txt______________ List of Python dependencies
 
 ## Gemini said
 I’ve analyzed your notebook. It’s a clean, professional piece of Exploratory Data Analysis (EDA). You used Pandas for data cleaning and Matplotlib/Seaborn to visualize CO2 trends across Canadian provinces and sectors.
