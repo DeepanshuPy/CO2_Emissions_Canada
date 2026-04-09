@@ -18,7 +18,7 @@ I followed a modular data science workflow to ensure the analysis is reproducibl
 
 3. Visualization: Leveraging Seaborn and Matplotlib to create multi-line plots, heatmaps, and stacked bar charts for sectoral comparisons.
 
-4. ## 📊 Data Insights
+## 📊 Data Insights
 
 5. Based on the Data_Analysis_2026.ipynb findings:
 
